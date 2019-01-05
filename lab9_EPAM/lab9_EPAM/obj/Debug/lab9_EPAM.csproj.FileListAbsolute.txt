@@ -1,0 +1,14 @@
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\lab9_EPAM.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\lab9_EPAM_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\lab9_EPAM_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\bin\Debug\lab9_EPAM.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\bin\Debug\lab9_EPAM.exe
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\bin\Debug\lab9_EPAM.pdb
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\lab9_EPAM.g.resources
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\lab9_EPAM.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\lab9_EPAM.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\lab9_EPAM.exe
+c:\users\admin\documents\visual studio 2017\Projects\lab9_EPAM\lab9_EPAM\obj\Debug\lab9_EPAM.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab10_EPAM\bad\bin\Debug\bad.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab10_EPAM\bad\bin\Debug\bad.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab10_EPAM\bad\bin\Debug\bad.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab10_EPAM\bad\obj\Debug\bad.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab10_EPAM\bad\obj\Debug\bad.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab10_EPAM\bad\obj\Debug\bad.pdb

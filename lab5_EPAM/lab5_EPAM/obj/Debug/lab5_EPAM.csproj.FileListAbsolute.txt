@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\bin\Debug\lab5_EPAM.exe.config
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\bin\Debug\lab5_EPAM.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\bin\Debug\lab5_EPAM.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\obj\Debug\lab5_EPAM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\obj\Debug\lab5_EPAM.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\obj\Debug\lab5_EPAM.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\obj\Debug\lab5_EPAM.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\obj\Debug\lab5_EPAM.exe
+C:\Users\admin\Documents\Visual Studio 2017\Projects\lab5_EPAM\lab5_EPAM\obj\Debug\lab5_EPAM.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\documents\visual studio 2017\Projects\lab11_EPAM\lab11_EPAM\bin\Debug\lab11_EPAM.exe.config
+C:\Users\admin\documents\visual studio 2017\Projects\lab11_EPAM\lab11_EPAM\bin\Debug\lab11_EPAM.exe
+C:\Users\admin\documents\visual studio 2017\Projects\lab11_EPAM\lab11_EPAM\bin\Debug\lab11_EPAM.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\lab11_EPAM\lab11_EPAM\obj\Debug\lab11_EPAM.exe
+C:\Users\admin\documents\visual studio 2017\Projects\lab11_EPAM\lab11_EPAM\obj\Debug\lab11_EPAM.pdb
+C:\Users\admin\documents\visual studio 2017\Projects\lab11_EPAM\lab11_EPAM\obj\Debug\part1.csprojResolveAssemblyReference.cache

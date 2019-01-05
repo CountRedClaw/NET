@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\bin\Debug\lab6_EPAMpart2.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\bin\Debug\lab6_EPAMpart2.exe
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\bin\Debug\lab6_EPAMpart2.pdb
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\obj\Debug\lab6_EPAMpart2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\obj\Debug\lab6_EPAMpart2.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\obj\Debug\lab6_EPAMpart2.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\obj\Debug\lab6_EPAMpart2.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\obj\Debug\lab6_EPAMpart2.exe
+c:\users\admin\documents\visual studio 2017\Projects\lab6_EPAMpart2\lab6_EPAMpart2\obj\Debug\lab6_EPAMpart2.pdb

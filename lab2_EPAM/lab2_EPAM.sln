@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2_EPAM", "lab2_EPAM\lab2_EPAM.csproj", "{FB44528C-3A9A-4547-9918-074CD6347A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2_EPAMpart2", "lab2_EPAMpart2\lab2_EPAMpart2.csproj", "{90C0D22A-A4FA-47EA-B997-A8D3963993F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2_EPAMTests", "lab2_EPAMTests\lab2_EPAMTests.csproj", "{00AC38CE-32D6-484C-960D-91738448E629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB44528C-3A9A-4547-9918-074CD6347A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB44528C-3A9A-4547-9918-074CD6347A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB44528C-3A9A-4547-9918-074CD6347A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB44528C-3A9A-4547-9918-074CD6347A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90C0D22A-A4FA-47EA-B997-A8D3963993F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90C0D22A-A4FA-47EA-B997-A8D3963993F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90C0D22A-A4FA-47EA-B997-A8D3963993F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90C0D22A-A4FA-47EA-B997-A8D3963993F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AC38CE-32D6-484C-960D-91738448E629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AC38CE-32D6-484C-960D-91738448E629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AC38CE-32D6-484C-960D-91738448E629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AC38CE-32D6-484C-960D-91738448E629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

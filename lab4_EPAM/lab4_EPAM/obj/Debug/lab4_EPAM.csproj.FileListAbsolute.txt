@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\bin\Debug\lab4_EPAM.exe.config
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\bin\Debug\lab4_EPAM.exe
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\bin\Debug\lab4_EPAM.pdb
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\obj\Debug\lab4_EPAM.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\obj\Debug\lab4_EPAM.Form1.resources
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\obj\Debug\lab4_EPAM.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\obj\Debug\lab4_EPAM.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\obj\Debug\lab4_EPAM.exe
+c:\users\admin\documents\visual studio 2017\Projects\lab4_EPAM\lab4_EPAM\obj\Debug\lab4_EPAM.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="lab9_EPAM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lab9_EPAM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525"
+        Closing="Window_Closing" Closed="Window_Closed">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="327*"/>
+            <ColumnDefinition Width="190*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="txtEditor" HorizontalAlignment="Left" Height="300" TextWrapping="Wrap" VerticalAlignment="Top" Width="517" AcceptsReturn="True" AcceptsTab="True" SpellCheck.IsEnabled="True" Language="ru-ru" Margin="0,19,0,0" Grid.ColumnSpan="2"/>
+        <Button Name="btnOpenFile" Content="Открыть" HorizontalAlignment="Left" Margin="0,-1,0,0" VerticalAlignment="Top" Width="75" Click="Open_Button_Click"/>
+        <Button x:Name="btnSaveAsFile" Content="Сохранить" HorizontalAlignment="Left" Margin="75,-1,0,0" VerticalAlignment="Top" Width="86" Click="SaveAs_Button_Click"/>
+        <Button x:Name="btnSaveFile" Content="Сохранить как" HorizontalAlignment="Left" Margin="161,-1,0,0" VerticalAlignment="Top" Width="93" Click="Save_Button_Click"/>
+
+    </Grid>
+</Window>
